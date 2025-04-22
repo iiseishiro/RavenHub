@@ -31,7 +31,7 @@ local Section = MainTab:CreateSection("Main")
 
 Rayfield:Notify({
    Title = "The Script Has Been Executed!",
-   Content = "Pls my pookie bears sub to EpicAftabYT",
+   Content = "Pls my pookie bears sub to @iiseishiro",
    Duration = 4.5,
    Image = nil,
    Actions = { -- Notification Buttons
